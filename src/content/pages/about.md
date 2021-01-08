@@ -71,7 +71,4 @@ Looking for entrepreneurial/internship opportunities.
 * Adobe Certified Associate    
 
   **Florida Atlantic University**
-
 * Hospitality & Tourism Management Certificate
-
-![Toys]( "Toys")
