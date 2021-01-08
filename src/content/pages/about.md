@@ -4,6 +4,8 @@ slug: /about
 title: "About Me"
 ---
 
+## Simon Ma
+
 I am a college student who loves working with technology. 
 
 I have a great interest in a variety of fields and love being able to work on my personal hobbies.
@@ -25,9 +27,11 @@ The following content is my resume (with extended information):
     * Personal Tutor                          Fall 2017 - Spring 2017
     * Tutored Intro to C and various other general education classes.
 
+Looking for entrepreneurial/internship opportunities. 
+
 **SKILLS & INTERESTS**
 
-  * Skills
+  * **Skills**
 
       Can type about ~72+ words per minute   
       Knowledge in Photoshop and image editing software   
@@ -35,7 +39,7 @@ The following content is my resume (with extended information):
       Intro knowledge to Microsoft Access and database implementation   
       Comfortable with Windows OS.   
 
-  * Interests
+  * **Interests**
 
       Computer Hardware   
       Upgrading Servers   
@@ -45,8 +49,6 @@ The following content is my resume (with extended information):
       Graphic Design    
       Reading     
       Writing    
-      
-      Looking for entrepreneurial opportunities. 
       
       Studying for certifications in COMPTIA A+/Networking.
 
@@ -60,20 +62,12 @@ The following content is my resume (with extended information):
 *	Project management concepts in documentation, management, etc.  
 *	Networking concepts/lab, computer hardware, CompTIA A+/Networking material  
 
+**CERTIFICATIONS**    
+  **Certiport**  
+  * Microsoft Office Specialist
+  * Adobe Certified Associate    
 
+  **Florida Atlantic University**
+  * Hospitality & Tourism Management Certificate
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
-
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
-
-
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
-
-
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
-
-Yikes

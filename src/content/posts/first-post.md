@@ -1,53 +1,143 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: /book-shelf
+title: College Courses List
+slug: /college-courses
 date: 2019-07-10T00:00:00.000Z
-description: sdasd
+description: Simon Ma's College Courses
 featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+## Course List of Simon Ma
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+**Advanced Placement Transfer Credits**
 
-## It doesn't look so shiny to me.
+ENC 1101 - COMPOSITION I
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+ART 2201C - DESIGN FUNDAMENTALS TWO D
 
-![]()
+GEO 1400 - HUMAN GEOGRAPHY
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+**FALL 2016**
 
-### Daylight and everything.
+PSY 2012 - GENERAL PSYCHOLOGY
+ 
+PHI 2010 - INTRODUCTION TO PHILOSOPHY
+ 
+ANT 2511 - THE HUMAN SPECIES
+ 
+COP 3223C - INTRO TO PROGRAMMING WITH C
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+**SPRING 2017**
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+SPC 1603C - FUNDAMENTALS TECHNICAL PRESNTN
+ 
+AMH 2010 - U.S. HISTORY: 1492-1877
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+EUH 2000 - WESTERN CIVILIZATION I
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+ECO 2023 - PRINCIPLES OF MICROECONOMICS
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+**SUMMER 2017**
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+ENC 1102 - COLL COMPOSITION 2
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+MAC 1114C - TRIGONOMETRY
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+**FALL 2017**
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
+CGS 2545C - DATABASE CONCEPTS
 
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
+CIS 3360 - SECURITY IN COMPUTING
+ 
 
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
+STA 2023 - STATISTICAL METHODS I
+ 
 
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+COP 3502C - COMPUTER SCIENCE I
+
+
+**SPRING 2018**
+
+PHI 3626 - ADV ETHICS IN SCIENCE & TECH
+ 
+COP 3330 - OBJECT ORIENTED PROGRAMMING
+ 
+ENC 3241 - WRITING FOR TECHNICAL PROF
+ 
+COP 3502C - COMPUTER SCIENCE I
+
+CIS 3921 - CAREERS IN IT
+
+**SUMMER 2018**
+
+FIL 2030 - HISTORY OF MOTION PICTURES
+
+FIL 1000 - CINEMA SURVEY
+
+**FALL 2018**
+
+CGS 3269 - COMPUTER ARCHITECTURE CONCEPTS
+
+CAP 3104 - FOUNDATIONS OF HCI
+ 
+CIS 3003 - FUND INFORMATION TECHNOLOGY
+
+CGS 3763 - OPERATING SYSTEM CONCEPTS
+
+**SPRING 2019**
+
+ART 2823 - ART AS INTERFACE
+ 
+CIS 4524 - MANAGING IT INTEGRATION
+
+CNT 4603 - SYSTEM ADMIN & MAINTENANCE
+ 
+PHY 2053C - COLLEGE PHYSICS I
+ 
+
+**SUMMER 2019**
+
+MAC 1105C - COLLEGE ALGEBRA
+
+**FALL 2019**
+
+CNT 3004 - COMPUTER NETWORK CONCEPTS
+
+CGS 3175 - INTERNET APPLICATIONS
+ 
+ENC 4265 - WRITING FOR COMPUTER INDUSTRY
+
+MAD 2104 - FOUNDATIONS OF DISCRETE MATH
+ 
+CIS 3990 - IT CAREER AND ACADEMIC ADV I
+
+**SPRING 2020**
+
+CNT 4714 - ENTERPRISE COMPUTING
+
+CIS 4004 - WEB BASED INFO TECHNOLOGY
+ 
+CNT 4703C - DESIGN & IMPL COMP COM NETWK
+ 
+PHY 2054C - COLLEGE PHYSICS II
+ 
+CIS 4991 - IT CAREER AND ACADEMIC ADV II
+ 
+
+**SUMMER 2020**
+
+ENC 4280 - TECHNICAL WRITING STYLE
+
+ENC 4293 - DOC AND PROJECT MANAGEMENT
+
+**FALL 2020**
+
+ENC 4294 - CLIENT-BASED PROJECT MANAGEMEN
+
+COP 4910 - FRONTIERS IN INFO TECHNOLOGY
+
+ENC 4290 - USABILITY TESTING FOR TECH COM
+ 
+ENC 4218 - VISUAL TECHNICAL COMMUNICATION
+ 

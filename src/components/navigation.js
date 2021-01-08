@@ -25,7 +25,7 @@ const MenuItems = [
   },
 
   // New
-
+  /*
   {
     path: "/Art",
     title: "Art"
@@ -55,7 +55,7 @@ const MenuItems = [
     path: "/Homelab",
     title: "Homelab"
   },
-
+  */
   ////////
   {
     path: "/contact",
