@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Simon Ma's Portfolio Website",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Simon Ma's Portfolio/Blog\n\nBuilt with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "siteUrl": "https://masimon.netlify.app/",
+    "image": "/assets/simonmaportfoliopic.png",
+    "iconimage": "/assets/simonmaportfoliopic.png",
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-25K109FNXD"
 }
