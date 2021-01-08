@@ -25,7 +25,7 @@ query LayoutQuery {
 const Layout = ({children, className, props}) => {
 
   const { site } = useStaticQuery(query)
-  const { siteTitle } = site.siteMetadata
+  const { siteTitle } =  site.siteMetadata
 
 
   return (

@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Simon Ma
+title: Simon Ma's Portfolio
 tagline: Student of University of Central Florida
 featuredImage: /assets/simonmaportfoliopic.png
 cta:
