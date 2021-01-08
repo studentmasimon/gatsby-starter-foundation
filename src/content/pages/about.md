@@ -1,9 +1,8 @@
 ---
 template: about-page
 slug: /about
-title: "About Me"
+title: About Me
 ---
-
 ## Simon Ma
 
 I am a college student who loves working with technology. 
@@ -14,60 +13,65 @@ The following content is my resume (with extended information):
 
 **EDUCATION**
 
-    * Attending: University of Central Florida 
-    * Major: Information Technology 
-    * Minor: Technical Communication
-    * GPA: 3.627
-    * Years: 2016 to Expected Graduation Spring 2021.
+```
+* Attending: University of Central Florida 
+* Major: Information Technology 
+* Minor: Technical Communication
+* GPA: 3.627
+* Years: 2016 to Expected Graduation Spring 2021.
 
-    * Scholarships: Florida Medallion Scholars (FMS) from 2016 - Present
+* Scholarships: Florida Medallion Scholars (FMS) from 2016 - Present
+```
 
 **WORK EXPERIENCE**
 
-    * Personal Tutor                          Fall 2017 - Spring 2017
-    * Tutored Intro to C and various other general education classes.
+```
+* Personal Tutor                          Fall 2017 - Spring 2017
+* Tutored Intro to C and various other general education classes.
+```
 
 Looking for entrepreneurial/internship opportunities. 
 
 **SKILLS & INTERESTS**
 
-  * **Skills**
+* **Skills**
 
-      Can type about ~72+ words per minute   
-      Knowledge in Photoshop and image editing software   
-      Amateur in C programming   
-      Intro knowledge to Microsoft Access and database implementation   
-      Comfortable with Windows OS.   
+    Can type about ~72+ words per minute\
+    Knowledge in Photoshop and image editing software\
+    Amateur in C programming\
+    Intro knowledge to Microsoft Access and database implementation\
+    Comfortable with Windows OS.   
+* **Interests**
 
-  * **Interests**
+    Computer Hardware\
+    Upgrading Servers\
+    Music Production\
+    Content Creation\
+    Music Listening\
+    Graphic Design\
+    Reading\
+    Writing    
 
-      Computer Hardware   
-      Upgrading Servers   
-      Music Production    
-      Content Creation    
-      Music Listening    
-      Graphic Design    
-      Reading     
-      Writing    
-      
-      Studying for certifications in COMPTIA A+/Networking.
+    Studying for certifications in COMPTIA A+/Networking.
 
 **COURSEWORK**
 
-*	Created a database utilizing Microsoft Access   
-*	Technical documentation rewrites for various software and template manuals   
-*	GUI Interactions and designs   
-*	Simple HTML/CSS/Bootstrap examples   
-*	Virtualization with Microsoft Server creating Powershell scripts and MySQL Queries   
-*	Project management concepts in documentation, management, etc.  
-*	Networking concepts/lab, computer hardware, CompTIA A+/Networking material  
+* Created a database utilizing Microsoft Access   
+* Technical documentation rewrites for various software and template manuals   
+* GUI Interactions and designs   
+* Simple HTML/CSS/Bootstrap examples   
+* Virtualization with Microsoft Server creating Powershell scripts and MySQL Queries   
+* Project management concepts in documentation, management, etc.  
+* Networking concepts/lab, computer hardware, CompTIA A+/Networking material  
 
-**CERTIFICATIONS**    
+**CERTIFICATIONS**\
   **Certiport**  
-  * Microsoft Office Specialist
-  * Adobe Certified Associate    
+
+* Microsoft Office Specialist
+* Adobe Certified Associate    
 
   **Florida Atlantic University**
-  * Hospitality & Tourism Management Certificate
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+* Hospitality & Tourism Management Certificate
+
+![Toys]( "Toys")
