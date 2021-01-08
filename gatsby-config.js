@@ -80,11 +80,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Simon Ma Portfolio`,
+        short_name: `Simon Ma`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#535353`,
+        theme_color: `#52D0CA`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },

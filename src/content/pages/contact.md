@@ -1,8 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact Information
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+You can directly email me at: <a href = "mailto: student.ma.simon@gmail.com">**student.ma.simon@gmail.com**</a>
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Or contact me through my LinkedIn portfolio: [**https://www.linkedin.com/in/studentsimonma/**](https://www.linkedin.com/in/studentsimonma/)

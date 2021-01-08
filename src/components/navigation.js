@@ -5,23 +5,63 @@ import { Link } from "gatsby"
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import Theme from "../components/theme"
 
+
+// Add pages to Menu / Header
+
 const MenuItems = [
   {
     path: "/",
     title: "Home"
   },
+
   {
     path: "/about",
     title: "About"
   },
+
   {
     path: "/blog",
     title: "Blog"
   },
+
+  // New
+
+  {
+    path: "/Art",
+    title: "Art"
+  },
+
+  {
+    path: "/Music",
+    title: "Music"
+  },
+
+  {
+    path: "/Writing",
+    title: "Writing"
+  },
+
+  {
+    path: "/CourseWork",
+    title: "Course Work"
+  },
+
+  {
+    path: "/Tutorials",
+    title: "Tutorials"
+  },
+
+  {
+    path: "/Homelab",
+    title: "Homelab"
+  },
+
+  ////////
   {
     path: "/contact",
     title: "Contact"
   },
+
 ]
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)
