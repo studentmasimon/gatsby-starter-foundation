@@ -8,5 +8,9 @@ cta:
   ctaText: About Me
   ctaLink: /about
 ---
-Major:  Information Technology  
+Major:  Information Technology\
 Minor:  Technical Communication  
+
+
+
+*This website is a work in progress!*

@@ -2,11 +2,10 @@
   "meta": {
     "title": "Simon Ma's Portfolio Website",
     "titleTemplate": "%s",
-    "description": "Simon Ma's Portfolio/Blog\n\nBuilt with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://masimon.netlify.app/",
+    "description": "A Blog/Portfolio website for Simon Ma\n\nBuilt with Gatsby and Netlify CMS credits to @stackrole for most of the website.",
     "image": "/assets/simonmaportfoliopic.png",
-    "iconimage": "/assets/simonmaportfoliopic.png",
-    "twitterUsername": ""
+    "iconimage": "/assets/simonmaportfoliopic.png"
   },
   "ga": "G-25K109FNXD"
 }

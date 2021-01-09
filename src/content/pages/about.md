@@ -5,6 +5,8 @@ title: About Me
 ---
 ## Simon Ma
 
+![Profile Picture2](/assets/profilepic.png "Profile Picture2")
+
 I am a college student who loves working with technology. 
 
 I have a great interest in a variety of fields and love being able to work on my personal hobbies.
@@ -71,7 +73,4 @@ Looking for entrepreneurial/internship opportunities.
 * Adobe Certified Associate    
 
   **Florida Atlantic University**
-
 * Hospitality & Tourism Management Certificate
-
-![Toys]( "Toys")
