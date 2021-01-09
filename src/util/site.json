@@ -5,7 +5,8 @@
     "siteUrl": "https://masimon.netlify.app/",
     "description": "A Blog/Portfolio website for Simon Ma\n\nBuilt with Gatsby and Netlify CMS credits to @stackrole for most of the website.",
     "image": "/assets/simonmaportfoliopic.png",
-    "iconimage": "/assets/simonmaportfoliopic.png"
+    "iconimage": "/assets/simonmaportfoliopic.png",
+    "twitterUsername": "@masimon07965472"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
