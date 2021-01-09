@@ -5,7 +5,7 @@ title: About Me
 ---
 ## Simon Ma
 
-![Profile Picture2](/assets/profilepic.png "Profile Picture2")
+![](/assets/profilepic.png)
 
 I am a college student who loves working with technology. 
 
