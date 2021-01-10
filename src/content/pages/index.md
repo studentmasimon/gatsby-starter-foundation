@@ -11,6 +11,4 @@ cta:
 Major:  Information Technology\
 Minor:  Technical Communication  
 
-
-
-*This website is a work in progress!*
+*Website made with Netlify + Netlify CMS*
